@@ -1,2 +1,2 @@
 # daily-planner
-Daily Planner
+Daily planner application 
